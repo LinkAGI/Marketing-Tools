@@ -7,6 +7,7 @@ The marketing service platform is committed to providing overseas small, medium 
 This platform enables companies to carry out marketing activities and provide full-process supporting services. From independently configuring marketing resources such as coupons, points and coupon codes, to distributing marketing resources to launch personalized activities, to supporting write-off capabilities and data statistical analysis, the basic functions are practical and comprehensive. Externally, it supports the sharing and drainage of major social traffic platforms such as Twitter, Facebook, and Tiktok. It also supports API interface access to write-offs and marketing service platforms to actively write off. It is suitable for the development of all corporate marketing activities, strengthens the company's marketing capabilities, and helps companies achieve considerable user and transaction volume growth.
 
 ### 1.2 Capabilities
+![Platform Architecture](img/001.png)
 The marketing service platform mainly has three major module functions: marketing tools, marketing activities, data analysis and management. The marketing tools include the following four types:
 - **Coupons**: For direct reduction, full reduction, and free order activities.
 - **Discount Vouchers**: For discounts, flash sales, and promotions.
@@ -49,6 +50,7 @@ The marketing service platform is committed to enriching its own marketing capab
 Online experience address: https://vh3anq.axshare.com
 
 ### 2.2 System architecture
+![System Architecture](img/002.png)
 Activity architecture is a comprehensive microservice architecture. The overall system architecture is as follows:
 
 ### 2.3 Technical Stack
@@ -101,3 +103,4 @@ Before deploying the project, it is assumed that you have installed and are in p
 - Purchase link (Tencent Cloud recommended): [https://dnspod.cloud.tencent.com/](https://dnspod.cloud.tencent.com/)
 
 ## 3. Contact Us
+hisun_aiteam@outlook.com
